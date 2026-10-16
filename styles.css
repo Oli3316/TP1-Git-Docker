@@ -26,3 +26,18 @@ h2 {
 p {
     color: #555;
 }
+
+
+button {
+    background-color: #2563eb;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #1d4ed8;
+}
